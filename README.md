@@ -88,9 +88,20 @@ The prototype uses Elexon BMRS wind forecast and generation datasets for January
 
 Forecast publication-time selection, data completeness, and metrics should be validated before operational use.
 
+
+
 ## Live Application
 
-**Status:** Add the public deployment URL after deployment. The localhost URLs above are for local development only.
+**Frontend Dashboard:** https://q7m2x9kp-web.vercel.app
+
+**Backend API Health Check:** https://q7m2x9kp-api.vercel.app/api/health
+
+**Interactive API Documentation:** https://q7m2x9kp-api.vercel.app/docs
+
+## Source Code
+
+**GitHub Repository:** https://github.com/Yaduvamsikrishna123/q7m2x9kp
+
 
 ## Repository
 
